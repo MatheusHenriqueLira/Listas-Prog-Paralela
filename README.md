@@ -1,0 +1,2 @@
+# Listas-Prog-Paralela
+Tropinha

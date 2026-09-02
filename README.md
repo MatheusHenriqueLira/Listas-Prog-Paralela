@@ -14,7 +14,7 @@ Tropinha
      Lista 4:  02, 10</br>
      Lista 5:  02, 09, 16</br>
 
-* Isa(Bella)
+* Isa(Bella)</br>
      Lista 1:  01,06,15</br>
      Lista 2:  03,10,17</br>
      Lista 3:  03</br>

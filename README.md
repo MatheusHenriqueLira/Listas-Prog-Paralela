@@ -1,30 +1,30 @@
 # Listas-Prog-Paralela
 Tropinha
-* Matheus
-     Lista 1:  05,02,20
-     Lista 2:  01,08,14
+* Matheus </br>
+     Lista 1:  05,02,20 </br>
+     Lista 2:  01,08,14 </br>
 
-* Manu
-     Lista 1: 03,04,14
-     Lista 2: 02,09,16
+* Manu </br>
+     Lista 1: 03,04,14 </br>
+     Lista 2: 02,09,16 </br>
 
-* Isa(Bella)
-     Lista 1: 01,06,15
-     Lista 2: 03,10,17
+* Isa(Bella) </br>
+     Lista 1: 01,06,15 </br>
+     Lista 2: 03,10,17 </br>
 
-* Isa(Belle)
-     Lista 1: 07,08,13
-     Lista 2: 04,11,18
+* Isa(Belle) </br>
+     Lista 1: 07,08,13 </br>
+     Lista 2: 04,11,18 </br>
 
-* Victor
-     Lista 1: 09,10,12
-     Lista 2: 05,12,19
+* Victor </br>
+     Lista 1: 09,10,12 </br>
+     Lista 2: 05,12,19 </br>
 
-* Ranny
-     Lista 1: 11,16,18
-     Lista 2: 06,13,20
+* Ranny </br>
+     Lista 1: 11,16,18 </br>
+     Lista 2: 06,13,20 </br>
 
-* José 
-     Lista 1: 17,19
-     Lista 2: 07,15
+* José </br>
+     Lista 1: 17,19 </br>
+     Lista 2: 07,15 </br>
 

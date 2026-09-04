@@ -1,0 +1,10 @@
+idade – válido
+nomeAluno – válido
+2alunos – inválido pois não pode começar com números
+valor-total – inválido pois o java entende como subtração
+_class – válido
+class – inválido porque é um nome reservado
+$salario - válido
+notaFinal – válido
+media@aluno – inválido por conta do caractere especial
+Nome – válido

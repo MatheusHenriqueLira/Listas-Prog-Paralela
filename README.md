@@ -8,8 +8,8 @@ Tropinha
      Lista 5:  01, 08, 15</br>
 
 * Manu</br>
-     Lista 1:  03,04,14 FEITO:)</br>
-     Lista 2:  02,09,16 FEITO:)</br>
+     Lista 1:  03,04,14 FEITO:) 💚 </br>
+     Lista 2:  02,09,16 FEITO:) 💚 </br>
      Lista 3:  02</br>
      Lista 4:  02, 10</br>
      Lista 5:  02, 09, 16</br>

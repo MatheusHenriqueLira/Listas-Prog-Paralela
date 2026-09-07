@@ -1,0 +1,39 @@
+public class Calculadora {
+    
+    public static int somar(int a, int b) {
+        resposta = a + b;
+        return resposta;
+    };
+    
+    public static double somar(double a, double b) {
+        resposta = a + b;
+        return resposta;
+    };
+    
+    public static int somar(int a, int b, int c) {
+        resposta = a + b + c;
+        return resposta;
+    };
+}
+
+public class Main {
+    public static void main(String[] args) {
+        
+        int primeira_soma = Calculadora.somar(10, 20);
+	double segunda_soma = Calculadora.somar(10.0, 20.0);
+	int terceira_soma = Calculadora.somar(10, 20, 30);
+
+	System.out.println("Primeira soma: " + primeira_soma);
+	System.out.println("Segunda soma: " + segunda_soma);
+	System.out.println("Terceira soma: " + terceira_soma);
+	
+    }
+}
+
+/*
+Os 3 métodos possuem o mesmo nome pois o mecanismo de sobrecarga
+de métodos em Java permite. Ao alterar o tipo de retorno dos métodos
+e os tipos de objeto que receberão estes retornos, o compilador do
+Java consegue diferenciar os métodos e executar apenas aquele que
+atende às especificações do objeto.
+*/

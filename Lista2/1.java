@@ -1,7 +1,3 @@
-interface VeiculoEletrico {
-    void carregarBateria();
-}
-
 class Veiculo {
     private String marca;
     private String modelo;
@@ -27,7 +23,7 @@ class Veiculo {
     }
 }
 
-class Carro extends Veiculo implements VeiculoEletrico {
+class Carro extends Veiculo{
     private int quantidadePortas;
 
     public Carro(String marca, String modelo, int ano, int quantidadePortas) {
@@ -43,47 +39,12 @@ class Carro extends Veiculo implements VeiculoEletrico {
         super.exibirDados();
         System.out.println("Quantidade de Portas: " + quantidadePortas);
     }
-
-    @Override
-    public void carregarBateria() {
-        System.out.println(">> Carregando a bateria do carro " + getModelo() + "... 100% concluído!");
-    }
 }
 
-class Moto extends Veiculo {
-    private int cilindradas;
-
-    public Moto(String marca, String modelo, int ano, int cilindradas) {
-        super(marca, modelo, ano);
-        this.cilindradas = cilindradas;
-    }
-
-    public int getCilindradas() { return cilindradas; }
-    public void setCilindradas(int cilindradas) { this.cilindradas = cilindradas; }
-
-    @Override
-    public void exibirDados() {
-        super.exibirDados();
-        System.out.println("Cilindradas: " + cilindradas);
-    }
-}
-
-public class Exercicio20 {
+public class Exercicio01 {
     public static void main(String[] args) {
-        System.out.println("=== SISTEMA DE GERENCIAMENTO DE VEÍCULOS ===");
-
         Veiculo v1 = new Carro("BYD", "Seal", 2024, 4);
-        Veiculo v2 = new Moto("Yamaha", "MT-07", 2023, 689);
-
-        System.out.println("\n--- Dados do Veículo 1 ---");
+        System.out.println("\n--- Dados do Carro ---");
         v1.exibirDados();
-
-        System.out.println("\n--- Dados do Veículo 2 ---");
-        v2.exibirDados();
-
-        System.out.println("\n--- Teste de Recarga Elétrica ---");
-        if (v1 instanceof VeiculoEletrico) {
-            ((VeiculoEletrico) v1).carregarBateria();
-        }
     }
 }

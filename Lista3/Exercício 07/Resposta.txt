@@ -1,0 +1,3 @@
+Ao aumentar infinitamente o número de threads a execução do programa não aumenta proporcionalmente. Uma vez que existe um 
+limite de hardware, como o limite de cores do processador, além de também existir a troca de contexto e o custo de criação
+e destruição que aumenta o tempo de processamento.

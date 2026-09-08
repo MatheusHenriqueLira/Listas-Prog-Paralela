@@ -22,9 +22,9 @@ Tropinha
      Lista 5:  03, 10, 17</br>
 
 * Isa(Belle)</br>
-     Lista 1:  07,08,13</br>
-     Lista 2:  04,11,18</br>
-     Lista 3:  04</br>
+     Lista 1:  07,08,13 cabei :p</br>
+     Lista 2:  04,11,18 cabei :p</br>
+     Lista 3:  04 cabei :p</br>
      Lista 4:  04</br>
      Lista 5:  04, 11, 18</br>
 

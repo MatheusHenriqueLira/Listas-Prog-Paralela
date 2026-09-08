@@ -19,9 +19,9 @@ public class Matematica {
 public class Main {
     public static void main(String[] args) {
         
-        Matematica.dobro(10);
-        Matematica.quadrado(10);
-        Matematica.media(8.0, 7.0);
+        System.out.println(Matematica.dobro(10));
+        System.out.println(Matematica.quadrado(10));
+        System.out.println(Matematica.media(8.0, 7.0));
     }
 }
 

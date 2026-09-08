@@ -3,7 +3,7 @@ Tropinha
 * Matheus </br>
      Lista 1:  05,02,20 VAPO</br>
      Lista 2:  01,08,14 VAPO</br> 
-     Lista 3:  01, 10</br>
+     Lista 3:  01, 10 VAPO</br>
      Lista 4:  01</br>
      Lista 5:  01, 08, 15</br>
 

@@ -19,7 +19,7 @@ public class Calculadora {
 public class Main {
     public static void main(String[] args) {
         
-        int primeira_soma = Calculadora.somar(10, 20);
+    int primeira_soma = Calculadora.somar(10, 20);
 	double segunda_soma = Calculadora.somar(10.0, 20.0);
 	int terceira_soma = Calculadora.somar(10, 20, 30);
 

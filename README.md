@@ -10,7 +10,7 @@ Tropinha
 * Manu</br>
      Lista 1:  03,04,14 FEITO:) 💚 </br>
      Lista 2:  02,09,16 FEITO:) 💚 </br>
-     Lista 3:  02</br>
+     Lista 3:  02 VAPO</br>
      Lista 4:  02, 10</br>
      Lista 5:  02, 09, 16</br>
 
@@ -29,9 +29,9 @@ Tropinha
      Lista 5:  04, 11, 18</br>
 
 * Victor</br>
-     Lista 1:  09,10,12</br>
-     Lista 2:  05,12,19</br>
-     Lista 3:  05</br>
+     Lista 1:  09,10,12 VAPO</br>
+     Lista 2:  05,12,19 VAPO</br>
+     Lista 3:  05 VAPO</br>
      Lista 4:  05</br>
      Lista 5:  05, 12, 19</br>
 
@@ -43,8 +43,8 @@ Tropinha
      Lista 5:  06, 13, 20</br>
 
 * José </br>
-     Lista 1:  17,19</br>
-     Lista 2:  07,15</br>
-     Lista 3:  07, 08, 09</br>
+     Lista 1:  17,19 VAPO  </br>
+     Lista 2:  07,15 VAPO  </br>
+     Lista 3:  07, 08, 09 VAPO  </br>
      Lista 4:  07, 08, 09</br>
      Lista 5:  07, 14</br>

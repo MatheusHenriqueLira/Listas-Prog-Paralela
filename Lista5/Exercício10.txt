@@ -1,0 +1,4 @@
+a) Lock de instância do objeto t
+b) Lock de objeto Teste
+c) Não.
+d) elas podem ser executadas ao mesmo tempo pois não precisam de liberação de dados.

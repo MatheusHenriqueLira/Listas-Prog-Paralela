@@ -1,0 +1,2 @@
+Thread Safe é um conceito presente na programação concorrente que diz que: um método, classe ou estrutura de dados pode ser usada por duas threads diferentes sem haver corrupção de dados ou problemas de imprevisibilidade.
+O código em questão não é thread safe pois, quando ocorre um acesso simultâneo, o contador será sobrescrito e uma thread lerá o contador desatualizado, de modo que o seu compartilhamento causaria uma imprevisibilidade no sistema.

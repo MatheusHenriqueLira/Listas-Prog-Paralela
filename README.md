@@ -10,8 +10,8 @@ Tropinha
 * Manu</br>
      Lista 1:  03,04,14 FEITO:) 💚 </br>
      Lista 2:  02,09,16 FEITO:) 💚 </br>
-     Lista 3:  02 VAPO</br>
-     Lista 4:  02, 10</br>
+     Lista 3:  02 FEITO:) 💚 </br>
+     Lista 4:  02, 10 FEITO:) 💚 </br>
      Lista 5:  02, 09, 16</br>
 
 * Isa(Bella) 😋😋😋😋😋</br>

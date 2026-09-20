@@ -1,0 +1,18 @@
+2ª Questão Explique os principais benefícios de se utilizar a programação concorrente no
+desenvolvimento de software. Cite e descreva como a concorrência atua no
+aproveitamento do hardware, na responsividade de interfaces de usuário (UI) e na
+otimização de I/O.
+
+Resposta: Em questão ao aproveitamento de hardware, os computadores de hoje possuem vários núcleos (core) e por isso distribuir as tarefas entre os núcleos faz com que nenhum fique ocioso e não sobrecarrega determinado core. Já na responsividade de interface dividir em múltiplas threads faz com que o usuário possa requisitar tarefas que demandam maior processamento e enquanto elas carregam eles possam continuar navegando sem congelar a tela. E por fim, para otimização de I/O a programação concorrente faz com que enquanto uma tarefa lenta é processada seja possível transferir a atenção para outras tarefas da fila.
+
+10ª Questão A adição de concorrência nem sempre se traduz em um ganho linear de
+desempenho e pode, em alguns casos, degradar a aplicação devido à contenção de
+recursos. Liste e explique ao menos quatro fatores/fontes que provocam a degradação
+do desempenho em aplicações concorrentes (ex.: troca de contexto, excesso de threads,
+etc.).
+
+Resposta: Se tratando da degradação de desempenho por conta da concorrência alguns fatores podem ser:
+
+Em determinadas aplicações se tem muitas trocas de contexto o sistema pode ficar mais tempo gerenciando essas trocas do que realmente rodando a tarefa
+No excesso de threads pode sobrecarregar a memória e gastar muito em trocas de contexto
+E em bloqueios onde muitas threads dependem do mesmo recurso e por isso podem acabar ficando paradas em filas

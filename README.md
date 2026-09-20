@@ -4,7 +4,7 @@ Tropinha
      Lista 1:  05,02,20 VAPO</br>
      Lista 2:  01,08,14 VAPO</br> 
      Lista 3:  01, 10 VAPO</br>
-     Lista 4:  01</br>
+     Lista 4:  01  FEITO:) 💚 </br>
      Lista 5:  01, 08, 15</br>
 
 * Manu</br>
@@ -12,7 +12,7 @@ Tropinha
      Lista 2:  02,09,16 FEITO:) 💚 </br>
      Lista 3:  02 FEITO:) 💚 </br>
      Lista 4:  02, 10 FEITO:) 💚 </br>
-     Lista 5:  02, 09, 16</br>
+     Lista 5:  02, 09, 16  FEITO:) 💚 </br>
 
 * Isa(Bella) 😋😋😋😋😋</br>
      Lista 1:  01,06,15 OK</br>

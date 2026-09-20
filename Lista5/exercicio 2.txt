@@ -1,0 +1,17 @@
+Questão 2 — Identificando uma seção crítica
+Considere:
+public void depositar(double valor) {
+ saldo += valor;
+}
+Suponha que várias threads possam executar esse método simultaneamente.
+a) Qual trecho constitui a seção crítica?
+b) Qual problema pode ocorrer se duas threads executarem o método simultaneamente?
+c) Explique como a sincronização poderia solucionar o problema.
+
+RESPOSTA: 
+
+a-) A seção crítica é na lista de saldo += valor; , pois saldo é um recurso compartilhado e ele está sendo alterado.
+
+b-) Pode ocorrer condição de corrida, onde duas threads codificam a mesma variável simultaneamente e o valor ficará da que modificou por último.
+
+c-) A sincronização "tranca" a variável assim se ela estiver sendo acessada nenhuma outra thread pode modifica-la.

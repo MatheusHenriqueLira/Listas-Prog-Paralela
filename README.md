@@ -18,7 +18,7 @@ Tropinha
      Lista 1:  01,06,15 OK</br>
      Lista 2:  03,10,17 OK</br>
      Lista 3:  03 OK</br>
-     Lista 4:  03</br>
+     Lista 4:  03 OK</br>
      Lista 5:  03, 10, 17</br>
 
 * Isa(Belle)</br>

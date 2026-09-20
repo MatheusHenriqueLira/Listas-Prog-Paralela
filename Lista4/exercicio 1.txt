@@ -1,0 +1,13 @@
+1ª Questão Diferencie os conceitos de Execução Sequencial, Execução Concorrente,
+Execução Paralela e Execução Distribuída no contexto de arquiteturas de hardware
+(CPUs/núcleos) e a forma como as tarefas fazem progresso no tempo.
+
+RESPOSTA: 
+
+ Sequencial: As tarefas são processadas uma de cada vez em um único núcleo. Uma tarefa só inicia depois da conclusão da anterior.
+
+ Concorrente: Múltiplas tarefas são realizadas no mesmo período de tempo, intercalando o uso da CPU (troca de contexto).
+
+ Paralela: Múltiplas tarefas são executadas exatamente ao mesmo instante, exigindo uma CPU com múltiplos núcleos físicos.
+
+ Distribuída: As tarefas são divididas e processadas simultaneamente por vários computadores diferentes conectados em rede, trabalhando como um único sistema.

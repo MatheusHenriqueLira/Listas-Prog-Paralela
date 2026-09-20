@@ -1,0 +1,21 @@
+Questão 9 — synchronized × static synchronized
+Explique as diferenças entre:
+public synchronized void metodo1() {
+ ...
+}
+e
+public static synchronized void metodo2() {
+ ...
+}
+Compare:
+ nível do lock;
+ objeto utilizado para o bloqueio;
+ quantidade de instâncias envolvidas;
+ possibilidade de execução simultânea
+
+RESPOSTA: 
+
+O método 1 é normal em nível de instância, já o método 2 é estático em nível de classe
+metodo1: Usa a própria instância do objeto atual (this). Já o metodo2: Usa o objeto global da classe
+O método 1 só afeta a instância do objetivo que foi chamado, já o 2 afeta a instância do objeto global da classe
+metodo1 permite execução paralela se as threads usarem objetos diferentes, já o metodo2 bloqueia globalmente, permitindo apenas uma thread por vez no sistema inteiro.

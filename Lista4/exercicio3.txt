@@ -1,0 +1,2 @@
+Condição de disputa é quando duas ou mais threads tentam acessar o mesmo recurso compartilhado ao mesmo tempo e, por conta da programação concorrente não ser determinística, o resultado da operação depende da imprevisibilidade.
+A race condition tem natureza dinâmica pois ela não possui um código estático. Por depender de janelas de nanossegundos e do escalonador da CPU, a falha raramente se repete em testes locais e não gera avisos de erro imediatos. Também, depurar de modo comum pode mascarar o problema e fazer com que ele passe sem a devida auditoria.

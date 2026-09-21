@@ -1,0 +1,4 @@
+Exericio 01
+A: 20.000
+b: Por causa do race condition, o acesso a valor eh concorrente e pode ser acessado ao mesmo tempo, fazendo com que uma thread sobreescreva o trabalho da outra
+c: A instrucao valor++ e dividida em 3 passos, leitura modificacao e escrita, troca de threads durante os passos causam race condition 

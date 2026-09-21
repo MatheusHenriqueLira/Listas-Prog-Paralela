@@ -1,0 +1,4 @@
+Exercicio 8
+A: Nao
+B: pois o metodo e estatico, e metodos estaticos pertencem a classe toda e nao a instancia, fazendo com que apenas uma thread possa executar esse metodo por vez
+C: O lock utilizado é o objeto da própria classe Registro.class

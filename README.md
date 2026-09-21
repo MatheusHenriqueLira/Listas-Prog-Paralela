@@ -33,7 +33,7 @@ Tropinha
      Lista 2:  05,12,19 VAPO</br>
      Lista 3:  05 VAPO</br>
      Lista 4:  05 VAPO</br>
-     Lista 5:  05, 12, 19</br>
+     Lista 5:  05, 12, 19 vapo</br>
 
 * Ranny</br>
      Lista 1:  11,16,18 VAPO</br>

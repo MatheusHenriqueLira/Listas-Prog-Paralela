@@ -1,0 +1,16 @@
+a) Múltiplas threads podem executar ler simultaneamente, contanto que
+nenhuma delas esteja solicitando um writeLock.
+
+b) Apenas uma thread pode conter writeLock, ou seja, apenas uma poderá
+executar o método escrever() de uma vez.
+
+c) Quando o método escrever() estiver sendo utilizado, nenhuma thread
+poderá executar o método ler(), ou seja, não se pode executar ler()
+e escrever() simultaneamente.
+
+d) Num sistema de muitas leituras, para que não haja escassez de recurso,
+as leituras devem ser livres e o acesso simultâneo deve ser permitido.
+E como ocorrem poucas escritas, o writeLock não consumirá uma fatia de
+tempo que cause disrupção no andamento do sistema. Por ser mais restritivo,
+writeLock também é mais custoso para o sistema, então é melhor que seja
+executado menos vezes.

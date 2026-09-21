@@ -1,0 +1,7 @@
+- Race condition
+Condição de corrida é uma falha de código, no qual não há uma
+forma uniformizada de lidar com múltiplas threads, ou seja,
+fica a cargo de cada thread administrar seu tempo de execução,
+uso de recursos e interrupção, causando diversos problemas
+de tempo de espera de threads que deveriam possuir maior
+prioridade.

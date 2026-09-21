@@ -5,7 +5,7 @@ Tropinha
      Lista 2:  01,08,14 VAPO</br> 
      Lista 3:  01, 10 VAPO</br>
      Lista 4:  01  FEITO:) 💚 </br>
-     Lista 5:  01, 08, 15</br>
+     Lista 5:  (01, 08 VAPO), 15</br>
 
 * Manu</br>
      Lista 1:  03,04,14 FEITO:) 💚 </br>
@@ -32,13 +32,13 @@ Tropinha
      Lista 1:  09,10,12 VAPO</br>
      Lista 2:  05,12,19 VAPO</br>
      Lista 3:  05 VAPO</br>
-     Lista 4:  05</br>
+     Lista 4:  05 VAPO</br>
      Lista 5:  05, 12, 19</br>
 
 * Ranny</br>
-     Lista 1:  11,16,18</br>
-     Lista 2:  06,13,20</br>
-     Lista 3:  06</br>
+     Lista 1:  11,16,18 VAPO</br>
+     Lista 2:  06,13,20 VAPO</br>
+     Lista 3:  06 VAPO</br>
      Lista 4:  06</br>
      Lista 5:  06, 13, 20</br>
 

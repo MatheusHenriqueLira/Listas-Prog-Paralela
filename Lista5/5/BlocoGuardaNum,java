@@ -1,0 +1,10 @@
+public class BlocoGuardaNum {
+    private int num = 0;
+    private final Object trava = new Object();
+
+    public void somaNum(int outroNum) {
+        synchronized (trava)
+        this.num += outroNum;
+        System.out.println("O novo numero eh: " + this.num)
+    }
+}

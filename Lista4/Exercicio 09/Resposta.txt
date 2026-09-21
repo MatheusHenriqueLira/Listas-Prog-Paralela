@@ -1,0 +1,19 @@
+a - 
+    Starvation: Ocorre quando uma thread está apta a executar, mas 
+    indefinidamente privada a aceder a um recurso essencial.
+
+    Livelock: Ocorre quando duas ou mais threads continuam ativas e
+    a mudar de estado mutualmente em resposta às ações uma das outras,
+    contudo sem realizarem qualquer progresso.
+
+    Starvation: Ocorre quando uma Thread está pronta para executr, mas
+    é indefinidamente impedida de acessar um recurso compartilhado.
+
+    Livelock: Ocorre quando duas ou mais threads mudam ativamente de
+    estado em resposta umas às outras, mas sem fazer nenhum progresso
+    na tarefa.
+
+b- 
+    A diferença existente entre Deadlock e Livelock é que enquanto a primeira
+    esta bloqueada a outra esta ativa, mas em loops, e por tanto consumindo recurso,
+    ao contrário do Deadlock.

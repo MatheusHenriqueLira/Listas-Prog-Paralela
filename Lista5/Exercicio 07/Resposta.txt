@@ -1,0 +1,8 @@
+    Não as threads t1 e t2 não precisam esperar uma pela outra. Elas executarão simultaneamente
+em paralelo/concorrência.
+
+    Isso se deve porque, em Java, todo método de instância marcado com
+synchronized adquire o monitor da insância especifica.
+
+    Além disso, como p1 e p2 foram criados atráves de operadores distindos, eles residem
+em endereços de memória diferentes no Heap.

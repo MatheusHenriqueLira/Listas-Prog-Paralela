@@ -1,0 +1,10 @@
+    O método compareAndSet(expectedValue, newValue) baseia na primitiva de hardware CAS
+(Compare-And-Swap)
+
+    Ele lê o valor atual na memória e verifica se ele é indêntico ao
+valor esperado( expectedValue, no caso false).
+
+    Se o valor na memória for igual ao esperado, o processador substitui
+esse valor pelo novo.
+
+    Se outra thread tiver alterado o valor antes, a verificação falha.

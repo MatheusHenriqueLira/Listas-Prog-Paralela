@@ -1,0 +1,7 @@
+    Um Deadlock é quando em sistemas concorrentes na qual dois ou mais processos/
+Threads ficam permanentemente bloqueados porque cada um detém cada um de um
+recurso exclusivo e aguarda a liberação de outro recurso que está sob a 
+posse de outro processo do mesmo grupo. Portanto, nenhuma das partes consegue
+finalizar, resultando em um congelamento definitivo da aplicação ou de parte
+dela.
+

@@ -1,0 +1,9 @@
+a-) volatile garante visibilidade entre threads: toda escrita feita em executando por uma thread é
+imediatamente visível para as demais, porque a variável é lida e escrita diretamente na memória principal,
+e não em uma cópia mantida em cache local de cada thread.
+
+b-) Porque envolve uma única variável sendo usada como uma "flag" de controle, sem nenhuma operação composta.
+
+c-) Não, volatile garante apenas visibilidade, não atomicidade. contador++ continua sendo, três operações
+(LOAD, ADD, STORE), e o volatile não impede que duas threads leiam o mesmo valor antes que qualquer uma escreva
+o resultado de volta

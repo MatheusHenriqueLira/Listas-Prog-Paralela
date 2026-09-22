@@ -1,0 +1,36 @@
+import java.util.concurrent.locks.ReentrantLock;
+
+class Recurso {
+    private final ReentrantLock lock = new ReentrantLock();
+
+    public void usar() {
+        if (lock.tryLock()) {
+            try {
+                System.out.println("Recurso adquirido.");
+                Thread.sleep(2000);
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt();
+            } finally {
+                lock.unlock();
+            }
+        } else {
+            System.out.println("Recurso ocupado.");
+        }
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Recurso recurso = new Recurso();
+
+        Thread t1 = new Thread(recurso::usar, "Thread-1");
+        Thread t2 = new Thread(recurso::usar, "Thread-2");
+
+        t1.start();
+        t2.start();
+    }
+}
+
+lock() -> Bloqueia a thread indefinidamente até que o lock esteja disponível.
+tryLock() -> Tenta adquirir o lock e retorna imediatamente: true se conseguiu,
+false se o lock já está em uso, sem nunca bloquear a thread chamadora.

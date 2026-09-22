@@ -1,0 +1,38 @@
+class Contador {
+    int valor = 0;
+
+    public synchronized void incrementar() {
+        valor++;
+    }
+}
+
+public class Main {
+    public static void main(String[] args) throws InterruptedException {
+        Contador contador = new Contador();
+
+        Thread t1 = new Thread(() -> {
+            for (int i = 0; i < 10000; i++)
+                contador.incrementar();
+        });
+        Thread t2 = new Thread(() -> {
+            for (int i = 0; i < 10000; i++)
+                contador.incrementar();
+        });
+
+        t1.start();
+        t2.start();
+        t1.join();
+        t2.join();
+
+        System.out.println(contador.valor);
+    }
+}
+
+a-) Quando um método de instância é marcado como synchronized, o lock utilizado é o monitor
+do próprio objeto sobre o qual o método é chamado. O objeto referenciado por this dentro do
+método. Nesse caso, como t1 e t2 chamam incrementar() no mesmo objeto contador, ambas disputam o
+mesmo lock, o monitor da instância contador.
+
+b-) Um monitor em Java só pode ser possuído por uma thread por vez. Quando t1 chama contador.incrementar(),
+ela adquire o lock do objeto contador antes de executar o corpo do método e só o libera ao terminar (ou ao sair,
+mesmo por exceção). Se t2 tentar chamar incrementar() nesse meio tempo, ela é bloqueada até que t1 libere o lock.

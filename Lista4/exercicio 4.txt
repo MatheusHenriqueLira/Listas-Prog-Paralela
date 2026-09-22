@@ -1,0 +1,1 @@
+O trecho de código não é uma ação atômica e pode ser interrompido no meio de sua execução, o que pode gerar possíveis inconsistência nos resultados esperados.

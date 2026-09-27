@@ -23,9 +23,9 @@ Tropinha
      Lista 2:  03,10,17 OK</br>
      Lista 3:  03 OK</br>
      Lista 4:  03 OK</br>
-     Lista 5:  03, 10, 17</br>
-     Lista 6:  03, 10</br>
-     Aula 25:  03</br>
+     Lista 5:  03, 10, 17 ok</br>
+     Lista 6:  03, 10 ok</br>
+     Aula 25:  03 ok</br>
 
 * Isa(Belle)</br>
      Lista 1:  07,08,13 cabei :p</br>

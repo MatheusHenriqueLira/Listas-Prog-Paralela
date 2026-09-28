@@ -42,7 +42,7 @@ Tropinha
      Lista 3:  05 VAPO</br>
      Lista 4:  05 VAPO</br>
      Lista 5:  05, 12, 19 vapo</br>
-     Lista 6:  05, 12</br>
+     Lista 6:  05, 12 pronto</br>
      Aula 25:  05</br>
 
 * Ranny</br>

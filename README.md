@@ -23,18 +23,18 @@ Tropinha
      Lista 2:  03,10,17 OK</br>
      Lista 3:  03 OK</br>
      Lista 4:  03 OK</br>
-     Lista 5:  03, 10, 17</br>
-     Lista 6:  03, 10</br>
-     Aula 25:  03</br>
+     Lista 5:  03, 10, 17 ok</br>
+     Lista 6:  03, 10 ok</br>
+     Aula 25:  03 ok</br>
 
 * Isa(Belle)</br>
      Lista 1:  07,08,13 cabei :p</br>
      Lista 2:  04,11,18 cabei :p</br>
      Lista 3:  04 cabei :p</br>
-     Lista 4:  04</br>
-     Lista 5:  04, 11, 18</br>
-     Lista 6:  04, 11</br>
-     Aula 25:  04</br>
+     Lista 4:  04 cabei :p</br>
+     Lista 5:  04, 11, 18 cabei :p</br>
+     Lista 6:  04, 11 cabei :p</br>
+     Aula 25:  04 cabei :p</br>
 
 * Victor</br>
      Lista 1:  09,10,12 VAPO</br>
@@ -42,7 +42,7 @@ Tropinha
      Lista 3:  05 VAPO</br>
      Lista 4:  05 VAPO</br>
      Lista 5:  05, 12, 19 vapo</br>
-     Lista 6:  05, 12</br>
+     Lista 6:  05, 12 pronto</br>
      Aula 25:  05</br>
 
 * Ranny</br>

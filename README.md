@@ -31,10 +31,10 @@ Tropinha
      Lista 1:  07,08,13 cabei :p</br>
      Lista 2:  04,11,18 cabei :p</br>
      Lista 3:  04 cabei :p</br>
-     Lista 4:  04</br>
-     Lista 5:  04, 11, 18</br>
-     Lista 6:  04, 11</br>
-     Aula 25:  04</br>
+     Lista 4:  04 cabei :p</br>
+     Lista 5:  04, 11, 18 cabei :p</br>
+     Lista 6:  04, 11 cabei :p</br>
+     Aula 25:  04 cabei :p</br>
 
 * Victor</br>
      Lista 1:  09,10,12 VAPO</br>

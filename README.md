@@ -49,10 +49,10 @@ Tropinha
      Lista 1:  11,16,18 VAPO</br>
      Lista 2:  06,13,20 VAPO</br>
      Lista 3:  06 VAPO</br>
-     Lista 4:  06</br>
-     Lista 5:  06, 13, 20</br>
-     Lista 6:  06</br>
-     Aula 25:  06</br>
+     Lista 4:  06 feito</br>
+     Lista 5:  06, 13, 20 feito</br>
+     Lista 6:  06 feito</br>
+     Aula 25:  06 feito</br>
 
 * José </br>
      Lista 1:  17,19 VAPO  </br>

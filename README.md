@@ -59,11 +59,11 @@ Tropinha
      Lista 1:  11,16,18 VAPO</br>
      Lista 2:  06,13,20 VAPO</br>
      Lista 3:  06 VAPO</br>
-     Lista 4:  06</br>
-     Lista 5:  06, 13, 20</br>
-     Lista 6:  06</br>
-     Aula 25:  06</br>
-     Aula 29:  06</br>
+     Lista 4:  06 ok</br>
+     Lista 5:  06, 13, 20 ok</br>
+     Lista 6:  06 ok</br>
+     Aula 25:  06 ok</br>
+     Aula 29:  06 ok</br>
      Lista 9:  -</br>
 
 * José </br>

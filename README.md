@@ -17,8 +17,8 @@ Tropinha
      Lista 3:  02 FEITO:) 💚 </br>
      Lista 4:  02, 10 FEITO:) 💚 </br>
      Lista 5:  02, 09, 16  FEITO:) 💚 </br>
-     Lista 6:  02, 09</br>
-     Aula 25:  02</br>
+     Lista 6:  02, 09 FEITO:) 💚 </br>
+     Aula 25:  02 FEITO:) 💚 </br>
      Aula 29:  02</br>
      Lista 9:  02</br>
 

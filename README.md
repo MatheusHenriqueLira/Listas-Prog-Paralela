@@ -8,6 +8,8 @@ Tropinha
      Lista 5:  (01, 08 VAPO), 15 VAPo</br>
      Lista 6:  01, 08 VAPO</br>
      Aula 25:  01 VAPO</br>
+     Aula 29:  03</br>
+     Lista 9:  03</br>
 
 * Manu</br>
      Lista 1:  03,04,14 FEITO:) 💚 </br>
@@ -17,6 +19,8 @@ Tropinha
      Lista 5:  02, 09, 16  FEITO:) 💚 </br>
      Lista 6:  02, 09</br>
      Aula 25:  02</br>
+     Aula 29:  02</br>
+     Lista 9:  02</br>
 
 * Isa(Bella) 😋😋😋😋😋</br>
      Lista 1:  01,06,15 OK</br>
@@ -26,6 +30,8 @@ Tropinha
      Lista 5:  03, 10, 17 ok</br>
      Lista 6:  03, 10 ok</br>
      Aula 25:  03 ok</br>
+     Aula 29:  01</br>
+     Lista 9:  01</br>
 
 * Isa(Belle)</br>
      Lista 1:  07,08,13 cabei :p</br>
@@ -35,6 +41,8 @@ Tropinha
      Lista 5:  04, 11, 18 cabei :p</br>
      Lista 6:  04, 11 cabei :p</br>
      Aula 25:  04 cabei :p</br>
+     Aula 29:  04</br>
+     Lista 9:  04</br>
 
 * Victor</br>
      Lista 1:  09,10,12 VAPO</br>
@@ -44,6 +52,8 @@ Tropinha
      Lista 5:  05, 12, 19 vapo</br>
      Lista 6:  05, 12 pronto</br>
      Aula 25:  05</br>
+     Aula 29:  05</br>
+     Lista 9:  05</br>
 
 * Ranny</br>
      Lista 1:  11,16,18 VAPO</br>
@@ -53,6 +63,8 @@ Tropinha
      Lista 5:  06, 13, 20</br>
      Lista 6:  06</br>
      Aula 25:  06</br>
+     Aula 29:  06</br>
+     Lista 9:  -</br>
 
 * José </br>
      Lista 1:  17,19 VAPO  </br>
@@ -62,3 +74,5 @@ Tropinha
      Lista 5:  07, 14</br>
      Lista 6:  07</br>
      Aula 25:  07, 08</br>
+     Aula 29:  -</br>
+     Lista 9:  06</br>

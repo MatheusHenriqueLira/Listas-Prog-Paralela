@@ -19,8 +19,8 @@ Tropinha
      Lista 5:  02, 09, 16  FEITO:) 💚 </br>
      Lista 6:  02, 09 FEITO:) 💚 </br>
      Aula 25:  02 FEITO:) 💚 </br>
-     Aula 29:  02</br>
-     Lista 9:  02</br>
+     Aula 29:  02 FEITO:) 💚 </br>
+     Lista 9:  02 FEITO:) 💚 </br>
 
 * Isa(Bella) 😋😋😋😋😋</br>
      Lista 1:  01,06,15 OK</br>

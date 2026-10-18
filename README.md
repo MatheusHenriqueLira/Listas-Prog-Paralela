@@ -72,7 +72,7 @@ Tropinha
      Lista 3:  07, 08, 09 VAPO  </br>
      Lista 4:  07, 08, 09</br>
      Lista 5:  07, 14</br>
-     Lista 6:  07</br>
+     Lista 6:  07 </br>
      Aula 25:  07, 08</br>
      Aula 29:  -</br>
      Lista 9:  06</br>

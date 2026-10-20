@@ -17,10 +17,10 @@ Tropinha
      Lista 3:  02 FEITO:) 💚 </br>
      Lista 4:  02, 10 FEITO:) 💚 </br>
      Lista 5:  02, 09, 16  FEITO:) 💚 </br>
-     Lista 6:  02, 09</br>
-     Aula 25:  02</br>
-     Aula 29:  02</br>
-     Lista 9:  02</br>
+     Lista 6:  02, 09 FEITO:) 💚 </br>
+     Aula 25:  02 FEITO:) 💚 </br>
+     Aula 29:  02 FEITO:) 💚 </br>
+     Lista 9:  02 FEITO:) 💚 </br>
 
 * Isa(Bella) 😋😋😋😋😋</br>
      Lista 1:  01,06,15 OK</br>
@@ -51,19 +51,19 @@ Tropinha
      Lista 4:  05 VAPO</br>
      Lista 5:  05, 12, 19 vapo</br>
      Lista 6:  05, 12 pronto</br>
-     Aula 25:  05</br>
-     Aula 29:  05</br>
-     Lista 9:  05</br>
+     Aula 25:  05 vapo faz eras</br>
+     Aula 29:  05 tá na mão meu aliado</br>
+     Lista 9:  05 esqueça tudo </br>
 
 * Ranny</br>
      Lista 1:  11,16,18 VAPO</br>
      Lista 2:  06,13,20 VAPO</br>
      Lista 3:  06 VAPO</br>
-     Lista 4:  06</br>
-     Lista 5:  06, 13, 20</br>
-     Lista 6:  06</br>
-     Aula 25:  06</br>
-     Aula 29:  06</br>
+     Lista 4:  06 ok</br>
+     Lista 5:  06, 13, 20 ok</br>
+     Lista 6:  06 ok</br>
+     Aula 25:  06 ok</br>
+     Aula 29:  06 ok</br>
      Lista 9:  -</br>
 
 * José </br>

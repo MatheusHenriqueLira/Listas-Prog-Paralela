@@ -9,7 +9,7 @@ public class Exercicio03 {
     public static class MaiorElementoMatrizTask extends RecursiveTask<Integer> {
         private final int[][] matriz;
         private final int linhaInicio;
-        private final int linhaFim; // Limite superior exclusivo
+        private final int linhaFim; 
 
         public MaiorElementoMatrizTask(int[][] matriz, int linhaInicio, int linhaFim) {
             this.matriz = matriz;
@@ -66,7 +66,6 @@ public class Exercicio03 {
                 totalLinhas, totalColunas, ((long) totalLinhas * totalColunas));
         System.out.println("Limiar de paralelismo (threshold): " + LIMIAR_LINHAS + " linhas");
         System.out.println("Processadores disponíveis: " + Runtime.getRuntime().availableProcessors());
-        System.out.println("-------------------------------------------------------------------------------\n");
 
         System.out.println("Preenchendo matriz com valores aleatórios...");
         int[][] matriz = new int[totalLinhas][totalColunas];

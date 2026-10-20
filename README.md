@@ -51,9 +51,9 @@ Tropinha
      Lista 4:  05 VAPO</br>
      Lista 5:  05, 12, 19 vapo</br>
      Lista 6:  05, 12 pronto</br>
-     Aula 25:  05</br>
-     Aula 29:  05</br>
-     Lista 9:  05</br>
+     Aula 25:  05 vapo faz eras</br>
+     Aula 29:  05 tá na mão meu aliado</br>
+     Lista 9:  05 esqueça tudo </br>
 
 * Ranny</br>
      Lista 1:  11,16,18 VAPO</br>

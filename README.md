@@ -8,8 +8,8 @@ Tropinha
      Lista 5:  (01, 08 VAPO), 15 VAPo</br>
      Lista 6:  01, 08 VAPO</br>
      Aula 25:  01 VAPO</br>
-     Aula 29:  03</br>
-     Lista 9:  03</br>
+     Aula 29:  03 VAPO</br>
+     Lista 9:  03 VAPO</br>
 
 * Manu</br>
      Lista 1:  03,04,14 FEITO:) 💚 </br>
